@@ -1,0 +1,31 @@
+{
+	"storyName": "MY-HORIZON",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Lean-drinker",
+			"sans",
+			[
+				255,
+				165,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"Chaotix_K",
+		"bf",
+		"gf"
+	],
+	"weekName": "MY-HORIZON"
+}
